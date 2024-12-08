@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
-<h3 align="center">A student studying at NCKU.</h3>
+
 
 
 
